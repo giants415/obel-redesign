@@ -1,9 +1,12 @@
 nav {
   background-color: #851618; }
 
-.nav-item a {
-  font-size: 20px; }
-.nav-item p {
-  margin-bottom: 0; }
+.nav-item {
+  background-color: white;
+  margin-right: 20px; }
+  .nav-item a {
+    font-size: 20px; }
+  .nav-item p {
+    margin-bottom: 0; }
 
 /*# sourceMappingURL=output.css.map */
